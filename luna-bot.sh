@@ -1,5 +1,5 @@
 # DISCORD BOTS ALPINE LXC
-#
+# location /etc/init.d/luna-bot
 # Runs a discord bot using openrc on boot
 #!/sbin/openrc-run
 
